@@ -6,6 +6,8 @@ This application helps Windows users manage GitHub repositories with a simple gr
 
 ## Features
 
+https://github.com/user-attachments/assets/97734c26-9d54-491e-9943-82da30a69133
+
 ### Repository List
 
 * List GitHub repositories by owner
